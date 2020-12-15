@@ -23,6 +23,7 @@ public class UserDaoJDBCImpl implements UserDao {
 
     public void removeUserById(long id) {
 
+
     }
 
     public List<User> getAllUsers() {
