@@ -8,7 +8,7 @@ public class Util {
     private static final String usserName = "root";
     private static final String pass = "BxrgAZfhg2ZJXQE";
 
-    public Connection getConnection() {
+    public static Connection getConnection() {
         Connection connection  = null;
 
         try {
